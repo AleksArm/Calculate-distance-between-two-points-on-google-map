@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DistanceTwoPoints</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="clear">Clear</string>
+    <string name="Cancel">Cancel</string>
+    <string name="gps_network_not_enabled">Gps isn\'t enable</string>
+    <string name="open_location_settings">Open location Settings</string>
+</resources>
